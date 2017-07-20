@@ -1,11 +1,11 @@
 # **react-native-sudaizhijia**
 
 
-![sudai2.png](http://r.photo.store.qq.com/psb?/V130h2Mg2vk9yF/ZQ3TM5LEhc5BqRb5H76z3w.geZH41OcjnpyYUw8xsm8!/r/dGsBAAAAAAAA)
+![sudai2.png](http://a3.qpic.cn/psb?/V130h2Mg2vk9yF/brJ4gtZQNJBamliw97*ssBRCmiDAu7rPxNKe5JwkECc!/b/dGoBAAAAAAAA&bo=ugQsBLoELAQDACU!&rf=viewer_4)
 
 
 ## Introduce
-***
+
 
 [sudaizhijai](https://github.com/zhanming0601/react-native-sudaizhijia) written in react-native.
 Completed the basic function of the original project,use the MobX in the project.
@@ -15,13 +15,13 @@ MobX library is a state of precise management tool, it is very easy for me to le
 
 
 ## Requirements
-***
+
 [React Native](http://facebook.github.io/react-native/docs/getting-started.html) 0.44.0
  (follow iOS and Android guides)
 
 
 ## Dependencies
-***
+
 1. [mobx](https://github.com/mobxjs/mobx)
 2. [mobx-react](https://github.com/mobxjs/mobx-react)
 3. [react-native-swiper](https://github.com/leecade/react-native-swiper)
@@ -32,7 +32,7 @@ MobX library is a state of precise management tool, it is very easy for me to le
 8. [react-native-blur](https://github.com/react-native-community/react-native-blur)
 
 ## Install
-***
+
 
 1.**Clone the repo**
 
@@ -64,13 +64,13 @@ $ react-native run-android
 
 
 ## Other Features
-***
+
 
 
 ## License
-***
+
 The MIT License
 
 ## Questions?
-***
+
 Feel free to contact me by18611205315@163.com or [issues](https://github.com/zhanming0601/react-native-sudaizhijia/issues) me
