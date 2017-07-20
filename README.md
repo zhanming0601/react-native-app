@@ -1,7 +1,7 @@
 # **react-native-sudaizhijia**
 
 
-![sudai2.png](http://upload-images.jianshu.io/upload_images/2018589-5be5874730aea689.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![sudai2.png](http://r.photo.store.qq.com/psb?/V130h2Mg2vk9yF/ZQ3TM5LEhc5BqRb5H76z3w.geZH41OcjnpyYUw8xsm8!/r/dGsBAAAAAAAA)
 
 
 ## Introduce
