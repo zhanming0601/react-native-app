@@ -1,10 +1,10 @@
-#**react-native-sudaizhijia**
+# **react-native-sudaizhijia**
 
 
 ![sudai2.png](http://upload-images.jianshu.io/upload_images/2018589-5be5874730aea689.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-##Introduce
+## Introduce
 ***
 
 [sudaizhijai](https://github.com/zhanming0601/react-native-sudaizhijia) written in react-native.
@@ -14,13 +14,13 @@ MobX library is a state of precise management tool, it is very easy for me to le
 
 
 
-##Requirements
+## Requirements
 ***
 [React Native](http://facebook.github.io/react-native/docs/getting-started.html) 0.44.0
  (follow iOS and Android guides)
 
 
-###Dependencies
+## Dependencies
 ***
 1. [mobx](https://github.com/mobxjs/mobx)
 2. [mobx-react](https://github.com/mobxjs/mobx-react)
@@ -31,7 +31,7 @@ MobX library is a state of precise management tool, it is very easy for me to le
 7. [react-native-picker](https://github.com/beefe/react-native-picker)
 8. [react-native-blur](https://github.com/react-native-community/react-native-blur)
 
-##Install
+## Install
 ***
 
 1.**Clone the repo**
@@ -63,14 +63,14 @@ $ react-native run-android
 ```
 
 
-###Other Features
+## Other Features
 ***
 
 
-###License
+## License
 ***
 The MIT License
 
-###Questions?
+## Questions?
 ***
 Feel free to contact me by18611205315@163.com or [issues](https://github.com/zhanming0601/react-native-sudaizhijia/issues) me
