@@ -1,7 +1,8 @@
-# react-native-sudaizhijia
+#**react-native-sudaizhijia**
 
 
 ![sudai2.png](http://upload-images.jianshu.io/upload_images/2018589-5be5874730aea689.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ##Introduce
 ***
@@ -11,26 +12,14 @@ Completed the basic function of the original project,use the MobX in the project
 [MobX](https://mobxjs.github.io/mobx/) : Simple, scalable state management (easier than Redux)
 MobX library is a state of precise management tool, it is very easy for me to learn and accept.
 
-###iOS App Preview
-***
-![home.gif](http://upload-images.jianshu.io/upload_images/2018589-e744ba3c339a6881.gif?imageMogr2/auto-orient/strip)
-![product2.gif](http://upload-images.jianshu.io/upload_images/2018589-c3671e862186706d.gif?imageMogr2/auto-orient/strip)
-
-![product.gif](http://upload-images.jianshu.io/upload_images/2018589-d9bca206032c367c.gif?imageMogr2/auto-orient/strip)
-
-![product-to-detail.gif](http://upload-images.jianshu.io/upload_images/2018589-5a01f4f5aa697bd5.gif?imageMogr2/auto-orient/strip)
 
 
-#**react-native-sudaizhijia**
-###Android App Preview
-***
-![home.gif](http://upload-images.jianshu.io/upload_images/2018589-886b24f08fbea601.gif?imageMogr2/auto-orient/strip)
-![product.gif](http://upload-images.jianshu.io/upload_images/2018589-a9444f84a022a007.gif?imageMogr2/auto-orient/strip)
 ##Requirements
 ***
 [React Native](http://facebook.github.io/react-native/docs/getting-started.html) 0.44.0
  (follow iOS and Android guides)
-***
+
+
 ###Dependencies
 ***
 1. [mobx](https://github.com/mobxjs/mobx)
@@ -44,6 +33,7 @@ MobX library is a state of precise management tool, it is very easy for me to le
 
 ##Install
 ***
+
 1.**Clone the repo**
 
 ```
@@ -71,6 +61,7 @@ $ react-native run-ios
 ```
 $ react-native run-android
 ```
+
 
 ###Other Features
 ***
