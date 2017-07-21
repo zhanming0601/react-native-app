@@ -16,11 +16,12 @@ Completed the basic function of the original project,use the MobX in the project
 [MobX](https://mobxjs.github.io/mobx/) : Simple, scalable state management (easier than Redux)
 MobX library is a state of precise management tool, it is very easy for me to learn and accept.
 
+
 ##iOS App Preview
 
-![QQ20170721-215431@2x.png](http://upload-images.jianshu.io/upload_images/2018589-40f4de6748b99e29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![home.png](http://upload-images.jianshu.io/upload_images/2018589-40f4de6748b99e29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-![QQ20170721-215730@2x.png](http://upload-images.jianshu.io/upload_images/2018589-68f362a70584bbf7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![product.png](http://upload-images.jianshu.io/upload_images/2018589-68f362a70584bbf7.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Requirements
 
