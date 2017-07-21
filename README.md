@@ -1,7 +1,7 @@
 # **react-native-sudaizhijia**
 
 
-![sudai2.png](http://a3.qpic.cn/psb?/V130h2Mg2vk9yF/brJ4gtZQNJBamliw97*ssBRCmiDAu7rPxNKe5JwkECc!/b/dGoBAAAAAAAA&bo=ugQsBLoELAQDACU!&rf=viewer_4)
+![sudai.png](http://a3.qpic.cn/psb?/V130h2Mg2vk9yF/brJ4gtZQNJBamliw97*ssBRCmiDAu7rPxNKe5JwkECc!/b/dGoBAAAAAAAA&bo=ugQsBLoELAQDACU!&rf=viewer_4)
 
 
 
@@ -22,6 +22,11 @@ MobX library is a state of precise management tool, it is very easy for me to le
 ![home.png](http://upload-images.jianshu.io/upload_images/2018589-ffd7e39a7cf989fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![product.png](http://upload-images.jianshu.io/upload_images/2018589-15e1408566d3f55e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+## Android App Preview
+
+![an](http://upload-images.jianshu.io/upload_images/2018589-37d02afb168e07bd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
 ## Requirements
