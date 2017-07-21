@@ -17,7 +17,7 @@ Completed the basic function of the original project,use the MobX in the project
 MobX library is a state of precise management tool, it is very easy for me to learn and accept.
 
 
-##iOS App Preview
+## iOS App Preview
 
 ![home.png](http://upload-images.jianshu.io/upload_images/2018589-40f4de6748b99e29.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
