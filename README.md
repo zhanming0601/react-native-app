@@ -1,17 +1,10 @@
 # **react-native-sudaizhijia**
 
 
-![sudai.png](http://a3.qpic.cn/psb?/V130h2Mg2vk9yF/brJ4gtZQNJBamliw97*ssBRCmiDAu7rPxNKe5JwkECc!/b/dGoBAAAAAAAA&bo=ugQsBLoELAQDACU!&rf=viewer_4)
-
-
-
-
-
-
 ## Introduce
 
 
-[sudaizhijai](https://github.com/zhanming0601/react-native-sudaizhijia) written in react-native.
+[App](https://github.com/zhanming0601/react-native-sudaizhijia) written in react-native copy with sudaizhijia.
 Completed the basic function of the original project,use the MobX in the project.
 [MobX](https://mobxjs.github.io/mobx/) : Simple, scalable state management (easier than Redux)
 MobX library is a state of precise management tool, it is very easy for me to learn and accept.
@@ -88,4 +81,4 @@ The MIT License
 
 ## Questions?
 
-Feel free to contact me by18611205315@163.com or [issues](https://github.com/zhanming0601/react-native-sudaizhijia/issues) me
+Feel free to contact me by 18611205315@163.com or [issues](https://github.com/zhanming0601/react-native-sudaizhijia/issues) me
