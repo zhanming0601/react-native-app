@@ -4,7 +4,7 @@
 ## Introduce
 
 
-[App](https://github.com/zhanming0601/react-native-app) written in react-native copy with sudaizhijia.
+[App](https://github.com/zhanming0601/react-native-app) written in react-native.
 Completed the basic function of the original project,use the MobX in the project.
 [MobX](https://mobxjs.github.io/mobx/) : Simple, scalable state management (easier than Redux)
 MobX library is a state of precise management tool, it is very easy for me to learn and accept.
